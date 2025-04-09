@@ -46,6 +46,6 @@ The **Expenses Tracker Project**: A web application capable of handling expenses
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCODE">
 
 <div align="center">
-  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdanielamartin&show_icons=true&locale=en&layout=compact&theme=radical&card_width=600" alt="mdanielamartin" />
+  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdanielamartin&show_icons=true&locale=en&layout=compact&theme=gruvbox&card_width=600" alt="mdanielamartin" />
 </div>
 
