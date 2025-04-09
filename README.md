@@ -1,31 +1,11 @@
 <h1 align="center">Maria Daniela Martin's GitHub Profile</h1>
 <img src="https://ucarecdn.com/e945fbc1-8081-4b35-bf66-b64f2bf5f9a1/GITHUBBANNER.png" alt='GITHUB BANNER'>
 
-### Currently Working On  
-[![Project Badge](https://img.shields.io/badge/Project-ALPUNTO-blue?style=flat-square)](#)
+<a href="#">
+  <img src="https://img.shields.io/badge/-Python-%2314354C?style=flat-square&logo=python&logoColor=white" style="width:160px; height:30px;" />
+</a>
 
----
 
-### Looking to Collaborate On  
-[![Backend Projects Badge](https://img.shields.io/badge/Collaboration-Backend%20Projects-lightgreen?style=flat-square)](#)
-
----
-
-### Expertise  
-[![Python Badge](https://img.shields.io/badge/-Python-%2314354C?style=flat-square&logo=python&logoColor=white)](#)  
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)  
-[![React Badge](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)](#)
-
----
-
-### Contact Me  
-[![Email Badge](https://img.shields.io/badge/Email-mdaniela.martin@proton.me-red?style=flat-square)](mailto:mdaniela.martin@proton.me)
-
----
-
-### Learn More About My Experience  
-[![Resume Badge](https://img.shields.io/badge/Resume-View%20Here-blue?style=flat-square)](https://flowcv.com/resume/vuaadvwl2pfk)
-[![Backend Projects Badge](https://img.shields.io/badge/Collaboration-Backend%20Pro
 - 🔭 I’m currently working on **ALPUNTO**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
