@@ -1,14 +1,20 @@
 <h1 align="center">Maria Daniela Martin's GitHub Profile</h1>
 <img src="https://ucarecdn.com/e945fbc1-8081-4b35-bf66-b64f2bf5f9a1/GITHUBBANNER.png" alt='GITHUB BANNER'>
 
-### 🛠️ Currently Working On: The **Expenses Tracker Project**: A web application capable of handling expenses in multiple currencies, with API integration to keep exchange rates updated, and visualization tools.  
+### 🛠️ Currently Working On: 
+The **Expenses Tracker Project**: A web application capable of handling expenses in multiple currencies, with API integration to keep exchange rates updated, and visualization tools.  
 
-### 🔭 Looking to Collaborate On: **Backend Projects**, **Databases**, and **RESTful APIs**.  
+### 🔭 Looking to Collaborate On: 
+**Backend Projects**, **Databases**, and **RESTful APIs**.  
 
-### 🧠 Enjoy Working With: **JavaScript**, **React**, and **Python**.  
+### 🧠 Enjoy Working With: 
+**JavaScript**, **React**, and **Python**.  
 
-### 👩‍💻 More About My Experience
-📄 Know about my experiences [https://flowcv.com/resume/oumf5wrsssq8](https://flowcv.com/resume/oumf5wrsssq8)
+### 👩‍💻 More About My Experience:
+<a href="https://flowcv.com/resume/oumf5wrsssq8" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge" alt="Resume Badge">
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
