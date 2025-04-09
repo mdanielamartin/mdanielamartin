@@ -1,10 +1,17 @@
 <h1 align="center">Maria Daniela Martin's GitHub Profile</h1>
 <img src="https://ucarecdn.com/e945fbc1-8081-4b35-bf66-b64f2bf5f9a1/GITHUBBANNER.png" alt='GITHUB BANNER'>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/-Python-%2314354C?style=flat-square&logo=python&logoColor=white" style="width:160px; height:30px;" />
-</a>
-![Python Badge](https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)(#)
+### 🛠️ Currently Working On
+<p>The **Expenses Tracker Project**, a web application capable of handling expenses in multiple currencies, with API integration to keep exchange rates updated, and visualization tools</p>
+
+### 🔭 Looking to Collaborate On
+<p>**Backend Projects**, **Databases**,and  **Restful APIs**</p>
+
+### 🧠 Enjoy Working With
+<p>**JavaScript**, **React**, and **Python**</p>
+
+### 👩‍💻 More About My Experience
+📄 Know about my experiences [https://flowcv.com/resume/vuaadvwl2pfk](https://flowcv.com/resume/vuaadvwl2pfk)
 
 - 🔭 I’m currently working on **ALPUNTO**
 
