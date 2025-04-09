@@ -22,7 +22,10 @@ The **Expenses Tracker Project**: A web application capable of handling expenses
   <a href="https://linkedin.com/in/daniela-martin" target="blank">
     <img src = 'https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
   </a>
-  [![Email Badge](https://img.shields.io/badge/Email-mdaniela.martin%40proton.me-red?style=for-the-badge&logo=gmail&logoColor=white)]    (mailto:mdaniela.martin@proton.me)
+ <a href="mailto:mdaniela.martin@proton.me">
+    <img src="https://img.shields.io/badge/Email-mdaniela.martin%40proton.me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
