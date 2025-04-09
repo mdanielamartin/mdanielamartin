@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="[https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Figma">
 </p>
 
 
