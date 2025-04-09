@@ -19,7 +19,7 @@ The **Expenses Tracker Project**: A web application capable of handling expenses
 
 <p align="left">
 
-  <a href="https://linkedin.com/in/daniela-martin" target="blank">
+  <a href="https://linkedin.com/in/daniela-martin1" target="blank">
     <img src = 'https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
   </a>
  <a href="mailto:mdaniela.martin@proton.me">
