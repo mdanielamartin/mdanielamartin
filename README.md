@@ -2,13 +2,14 @@
 <img src="https://ucarecdn.com/e945fbc1-8081-4b35-bf66-b64f2bf5f9a1/GITHUBBANNER.png" alt='GITHUB BANNER'>
 
 ### 🛠️ Currently Working On
-<p>The **Expenses Tracker Project**, a web application capable of handling expenses in multiple currencies, with API integration to keep exchange rates updated, and visualization tools</p>
+The **Expenses Tracker Project**, a web application capable of handling expenses in multiple currencies, with API integration to keep exchange rates updated, and visualization tools
+---
 
 ### 🔭 Looking to Collaborate On
-<p>**Backend Projects**, **Databases**,and  **Restful APIs**</p>
+**Backend Projects**, **Databases**,and  **Restful APIs**
 
 ### 🧠 Enjoy Working With
-<p>**JavaScript**, **React**, and **Python**</p>
+**JavaScript**, **React**, and **Python**
 
 ### 👩‍💻 More About My Experience
 📄 Know about my experiences [https://flowcv.com/resume/vuaadvwl2pfk](https://flowcv.com/resume/vuaadvwl2pfk)
