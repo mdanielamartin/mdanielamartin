@@ -15,11 +15,9 @@ The **Expenses Tracker Project**: A web application capable of handling expenses
   <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge" alt="Resume Badge">
 </a>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daniela-martin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniela-martin1" height="30" width="40" /></a>
-</p>
+### 📬 Connect With Me: 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniela-martin1)
+[![Email Badge](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaniela.martin@proton.me)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -38,7 +36,4 @@ The **Expenses Tracker Project**: A web application capable of handling expenses
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCODE">
 
-
-Protonmail	Protonmail	![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdanielamartin&show_icons=true&locale=en&layout=compact" alt="mdanielamartin" /></p>
