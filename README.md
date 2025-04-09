@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maria Daniela Martin</h1>
+
+<img src="https://ucarecdn.com/e945fbc1-8081-4b35-bf66-b64f2bf5f9a1/GITHUBBANNER.png" alt='GITHUB BANNER'>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 - 🔭 I’m currently working on **ALPUNTO**
