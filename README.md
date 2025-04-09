@@ -16,8 +16,10 @@ The **Expenses Tracker Project**: A web application capable of handling expenses
 </a>
 
 ### 📬 Connect With Me: 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniela-martin1)
-[![Email Badge](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaniela.martin@proton.me)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniela-martin1)  
+https://linkedin.com/in/daniela-martin1
+[![Email Badge](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaniela.martin@proton.me)  
+mailto:mdaniela.martin@proton.me
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
